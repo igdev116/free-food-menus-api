@@ -1,5 +1,5 @@
 {
-  "bbq": [
+  "bbqs": [
     {
       "id": "005-kings-carolina-oink-sampler",
       "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/66752/carolina-bbq-oink-sampler.1340b5a10cedc238cb2280306dd1d5a5.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
@@ -1580,7 +1580,7 @@
       "country": "North Bergen, NJ"
     }
   ],
-  "chocolate": [
+  "chocolates": [
     {
       "id": "signature-chocolate-collection-25-piece",
       "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/106318/large-signature-collection.6f21146f2b1945d80f7931d69b763ba7.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
