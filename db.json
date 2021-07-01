@@ -1094,15 +1094,6 @@
       "country": "Brooklyn, NY"
     },
     {
-      "id": "shake-shack-shackburger-16-pack",
-      "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/134022/shake-shack-shackburger-16-pack.316f8b09144db65931ea29e34869287a.png?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-      "name": "Shake Shack",
-      "dsc": "Shake Shack Shackburger® – 16 Pack",
-      "price": 89,
-      "rate": 4,
-      "country": "New York, NY"
-    },
-    {
       "id": "double-stack-burger-kit-for-4",
       "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/122768/handf-double-stack-burger-kit-for-4.4ee9f54b1d6087e9996335f07c13e5cd.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
       "name": "Holeman & Finch",
