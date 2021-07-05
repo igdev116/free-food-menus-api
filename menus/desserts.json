@@ -1,32 +1,5 @@
 [
   {
-    "id": "ice-cream-sandwiches-choose-your-own-8-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/132518/ice-cream-sandwiches-choose-your-own-8-pack.47f5d9687dcc0854952bfac4048cf08c.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Nightingale Ice Cream Sandwiches",
-    "dsc": "Ice Cream Sandwiches - Choose Your Own 8 Pack",
-    "price": 75,
-    "rate": 5,
-    "country": "Richmond, VA"
-  },
-  {
-    "id": "ice-cream-sandwiches-choose-your-own-6-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/107751/ice-cream-sandwiches-choose-your-own-6-pack.5c72120eae11fa3d55392ce94252b51b.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "MILK",
-    "dsc": "Macaron Ice Cream Sandwiches - Choose Your Own 6 Pack",
-    "price": 89,
-    "rate": 5,
-    "country": "Los Angeles, CA"
-  },
-  {
-    "id": "world-famous-banana-pudding-party-sized",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/84893/world-famous-banana-pudding-bowl-64-oz.85af650f8f51512f8f3181a11d6587d6.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Magnolia Bakery",
-    "dsc": "World Famous Banana Pudding Bowl (64 oz.)",
-    "price": 56,
-    "rate": 5,
-    "country": "New York, NY"
-  },
-  {
     "id": "15259-german-chocolate-killer-brownie-tin-pack",
     "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/132029/german-chocolate-killer-brownie-tin-pack.5ebc34160f28767a9d94c4da2e04c4b9.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
     "name": "Killer Brownie®",
@@ -36,12 +9,21 @@
     "country": "Dayton, OH"
   },
   {
+    "id": "world-famous-banana-pudding-party-sized",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/84893/world-famous-banana-pudding-bowl-64-oz.85af650f8f51512f8f3181a11d6587d6.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Magnolia Bakery",
+    "dsc": "World Famous Banana Pudding Bowl (64 oz.)",
+    "price": 56,
+    "rate": 4,
+    "country": "New York, NY"
+  },
+  {
     "id": "jacques-world-famous-chocolate-chip-cookies",
     "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/81172/jacques-world-famous-chocolate-chip-cookies-6-pack.2217a14c443602493bba88aa9335319a.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
     "name": "Jacques Torres Chocolate",
     "dsc": "Jacques’ World Famous Chocolate Chip Cookies - 6 Pack",
     "price": 39.95,
-    "rate": 5,
+    "rate": 4,
     "country": "New York, NY"
   },
   {
@@ -50,26 +32,17 @@
     "name": "The Cannoli Pie Company",
     "dsc": "Original Cannoli Pie",
     "price": 69,
-    "rate": 5,
+    "rate": 4,
     "country": "Bridgeport, CT"
   },
   {
-    "id": "not-fried-chicken-ice-cream-bucket-9-pieces",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/133928/not-fried-chicken-ice-cream-bucket-9-pack.60f7bd96d6e4ef499e7e1a75d38e6a9e.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Life Raft Treats",
-    "dsc": "\"Not Fried Chicken\" Ice Cream Bucket - 9 Pieces",
-    "price": 99,
+    "id": "sea-salted-caramel-swirl-cheesecake",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/134006/sea-salted-caramel-swirl-cheesecake.e2825335433fb7a272a5d77649a6849e.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Cotton Blues Cheesecake Company",
+    "dsc": "Sea-Salted Caramel Swirl Cheesecake",
+    "price": 65,
     "rate": 4,
-    "country": "Charleston, SC"
-  },
-  {
-    "id": "best-seller-cupcake-dozen",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/94478/best-seller-cupcake-dozen.f93b21993f6a2da11c975d45b9b0d08f.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Crave Cupcakes",
-    "dsc": "Best Seller Cupcake Dozen",
-    "price": 89,
-    "rate": 4,
-    "country": "Houston, TX"
+    "country": "Hattiesburg, MS"
   },
   {
     "id": "brooklyn-blackout-cookie-brownie-combo-pack-2-tins",
@@ -81,31 +54,40 @@
     "country": "Brooklyn, NY"
   },
   {
-    "id": "ice-cream-sandwiches-choose-your-own-12-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/132789/ice-cream-sandwiches-choose-your-own-12-pack.5f4d80edd1bb22064db0718b147c1047.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Nightingale Ice Cream Sandwiches",
-    "dsc": "Ice Cream Sandwiches - Choose Your Own 12 Pack",
-    "price": 99,
-    "rate": 4,
-    "country": "Richmond, VA"
-  },
-  {
-    "id": "reading-terminal-markets-diy-cookie-ice-cream-sandwich-kit-for-8",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/109990/reading-terminal-markets-diy-cookie-ice-cream-sandwich-kit-for-8.674ad0e9f3eb5edbf3bb7d21acaedd37.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Bassetts Ice Cream",
-    "dsc": "Reading Terminal Market's DIY Cookie Ice Cream Sandwich Kit for 8",
-    "price": 69,
-    "rate": 5,
-    "country": "Philadelphia, PA"
-  },
-  {
     "id": "smores-variety-pack",
     "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/78037/smores-variety-pack.86cf47d40c0c3508ce14d2659b3f99d4.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
     "name": "Gotta Have S'more",
     "dsc": "S'mores - Variety Pack",
     "price": 49,
-    "rate": 4,
+    "rate": 5,
     "country": "Los Angeles, CA"
+  },
+  {
+    "id": "best-seller-cupcake-dozen",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/94478/best-seller-cupcake-dozen.f93b21993f6a2da11c975d45b9b0d08f.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Crave Cupcakes",
+    "dsc": "Best Seller Cupcake Dozen",
+    "price": 89,
+    "rate": 4,
+    "country": "Houston, TX"
+  },
+  {
+    "id": "choose-your-own-ice-cream-donuts-6-pack",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/132716/choose-your-own-ice-cream-donuts-6-pack.24d0b44765a7c54237fcd7ea9d9d8093.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Elegant Desserts",
+    "dsc": "Choose Your Own Ice Cream Donuts - 6 Pack",
+    "price": 69,
+    "rate": 5,
+    "country": "Brooklyn, NY"
+  },
+  {
+    "id": "17481-jewish-dessert-3-pack",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/72507/jewish-classics-dessert-pack.7d4b76630f2fe75dcb7bbcf2501b7390.png?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Ess-a-Bagel",
+    "dsc": "Jewish Classics Dessert Pack",
+    "price": 89.95,
+    "rate": 5,
+    "country": "New York, NY"
   },
   {
     "id": "dessert-bar-care-package",
@@ -113,7 +95,7 @@
     "name": "Bread and Roses Bakery",
     "dsc": "Dessert Bar Care Package",
     "price": 65,
-    "rate": 5,
+    "rate": 4,
     "country": "Wells, ME"
   },
   {
@@ -126,49 +108,13 @@
     "country": "Chicago, IL"
   },
   {
-    "id": "sea-salted-caramel-swirl-cheesecake",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/134006/sea-salted-caramel-swirl-cheesecake.e2825335433fb7a272a5d77649a6849e.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Cotton Blues Cheesecake Company",
-    "dsc": "Sea-Salted Caramel Swirl Cheesecake",
-    "price": 65,
-    "rate": 5,
-    "country": "Hattiesburg, MS"
-  },
-  {
-    "id": "15538-chocolate-pecan-bourbon",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/131607/chocolate-pecan-bourbon-pie.2ff5b3a4721d65bc7d40e6206a45b5ee.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Michele's Pies",
-    "dsc": "Chocolate Pecan Bourbon Pie",
-    "price": 64,
-    "rate": 4,
-    "country": "Norwalk, CT"
-  },
-  {
-    "id": "little-italy-dessert-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/101477/little-italy-dessert-pack.3540a0f8d95494fa394f494d19f8c9e4.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Ferrara Bakery",
-    "dsc": "Little Italy Dessert Pack",
-    "price": 68,
-    "rate": 5,
-    "country": "New York, NY"
-  },
-  {
-    "id": "dessert-bars-choose-your-own-9-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/109092/dessert-bars-choose-your-own-9-pack.38ec1ad968769f3ab76bcb0826a0b8b7.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "The Gingered Peach",
-    "dsc": "Dessert Bars - Choose Your Own 9 Pack",
-    "price": 49,
-    "rate": 4,
-    "country": "Lawrence Twp, NJ"
-  },
-  {
-    "id": "bomboloni-choose-your-own-8-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/107482/bomboloni-choose-your-own-8-pack.65ee5d6d97f07f55444a1bb9292016e2.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Angelina Bakery",
-    "dsc": "Bomboloni - Choose Your Own 8 Pack",
+    "id": "gulab-jamun-ice-cream-cakes-2-pack",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/105133/gulab-jamun-ice-cream-cakes-2-pack.c45b4d0750ad22d741f84dc1f26d20e7.JPG?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Malai Ice Cream",
+    "dsc": "Gulab Jamun Ice Cream Cakes - 2 Pack",
     "price": 79,
-    "rate": 5,
-    "country": "New York, NY"
+    "rate": 4,
+    "country": "Brooklyn, NY"
   },
   {
     "id": "jacques-world-famous-chocolate-chip-cookies-12-pack",
@@ -176,98 +122,17 @@
     "name": "Jacques Torres Chocolate",
     "dsc": "Jacques’ World Famous Chocolate Chip Cookies - 12 Pack",
     "price": 69.95,
-    "rate": 4,
-    "country": "New York, NY"
-  },
-  {
-    "id": "17481-jewish-dessert-3-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/72507/jewish-classics-dessert-pack.7d4b76630f2fe75dcb7bbcf2501b7390.png?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Ess-a-Bagel",
-    "dsc": "Jewish Classics Dessert Pack",
-    "price": 89.95,
     "rate": 5,
     "country": "New York, NY"
   },
   {
-    "id": "ice-cream-sandwich-cone-nugget-sampler",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/126315/ice-cream-sandwich-sampler.2b7bf7662337107b5090ee8fc2d7a86f.png?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "IT'S-IT Ice Cream",
-    "dsc": "Ice Cream Sandwich + Cone Nugget Sampler",
-    "price": 129,
-    "rate": 4,
-    "country": "San Francisco, CA"
-  },
-  {
-    "id": "24011-chocolate-and-cinnamon-babka-3-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/132984/breads-chocolate-and-cinnamon-babka-3-pack.b5c36a0ccbbec8dd7c23771cfa0603fb.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Breads Bakery",
-    "dsc": "Breads Chocolate and Cinnamon Babka - 3 Pack",
-    "price": 49.95,
+    "id": "assorted-rice-krispie-treats-12-pack",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/95324/assorted-rice-krispie-treats-12-pack.801c4bad4750f54e7a27652df3a7b6ca.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Treat House",
+    "dsc": "Assorted Rice Krispie Treats - 12 Pack",
+    "price": 49,
     "rate": 4,
     "country": "New York, NY"
-  },
-  {
-    "id": "patriotic-bouquet-cupcakes-8-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/133335/patriotic-bouquet-cupcakes-8-pack.b76a4608ea20db955e98bde258311c63.jpeg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "We Take the Cake",
-    "dsc": "Patriotic Bouquet Cupcakes - 8 Pack",
-    "price": 89,
-    "rate": 5,
-    "country": "Ft Lauderdale, FL"
-  },
-  {
-    "id": "magnolia-banana-pudding-explore",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/136779/Magnolia-NEW-BP-Pudding-Cup.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Magnolia Bakery",
-    "dsc": "World Famous Banana Pudding",
-    "price": 65,
-    "rate": 5,
-    "country": "New York, NY"
-  },
-  {
-    "id": "cinnamon-roll-cheesecake",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/134085/cinnamon-roll-cheesecake.57da7d19317f774571fe8f667f38d8c7.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Honey Cheesecakes",
-    "dsc": "Cinnamon Roll Cheesecake",
-    "price": 75,
-    "rate": 5,
-    "country": "Statesboro, GA"
-  },
-  {
-    "id": "macaron-ice-cream-sandwich-best-seller-6-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/107773/macaron-ice-cream-sandwich-best-seller-6-pack.34ccc41e267c0dce72c6784a15894b58.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "MILK",
-    "dsc": "Macaron Ice Cream Sandwich Best Seller - 6 Pack",
-    "price": 89,
-    "rate": 5,
-    "country": "Los Angeles, CA"
-  },
-  {
-    "id": "chocolate-marshmallows",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/108670/chocolate-marshmallows.a5bb2a6f0b25f6058e82e486bc34020b.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Colts Chocolate",
-    "dsc": "Chocolate Marshmallows",
-    "price": 25,
-    "rate": 5,
-    "country": "Nashville, TN"
-  },
-  {
-    "id": "candy-cookie-cheesecake-sampler",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/82267/candy-cookie-cheesecake-sampler.bb8e5e3fb399edaa00a529271565d16f.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Eli's Cheesecake Company",
-    "dsc": "Candy Cookie Cheesecake Sampler",
-    "price": 79,
-    "rate": 4,
-    "country": "Chicago, IL"
-  },
-  {
-    "id": "22372822-handmade-ice-cream-sandwiches-24-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/89889/handmade-ice-cream-sandwiches-24-pack.89217b123578aced0529b4e138171b2f.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Anderson's Frozen Custard",
-    "dsc": "Handmade Ice Cream Sandwiches - 24 Pack",
-    "price": 119,
-    "rate": 4,
-    "country": "Buffalo, NY"
   },
   {
     "id": "choose-your-own-ice-cream-6-pints",
@@ -279,22 +144,58 @@
     "country": "Cincinnati, OH"
   },
   {
+    "id": "candy-cookie-cheesecake-sampler",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/82267/candy-cookie-cheesecake-sampler.bb8e5e3fb399edaa00a529271565d16f.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Eli's Cheesecake Company",
+    "dsc": "Candy Cookie Cheesecake Sampler",
+    "price": 79,
+    "rate": 5,
+    "country": "Chicago, IL"
+  },
+  {
+    "id": "chocolate-marshmallows",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/108670/chocolate-marshmallows.a5bb2a6f0b25f6058e82e486bc34020b.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Colts Chocolate",
+    "dsc": "Chocolate Marshmallows",
+    "price": 25,
+    "rate": 4,
+    "country": "Nashville, TN"
+  },
+  {
+    "id": "magnolia-banana-pudding-explore",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/136779/Magnolia-NEW-BP-Pudding-Cup.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Magnolia Bakery",
+    "dsc": "World Famous Banana Pudding",
+    "price": 65,
+    "rate": 5,
+    "country": "New York, NY"
+  },
+  {
     "id": "brooklyn-blackout-parfait",
     "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/82266/brooklyn-blackout-parfait.756b6c8cf3066aaca322fb12595bb3a4.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
     "name": "Brooklyn Cupcake",
     "dsc": "Brooklyn Blackout Cupcake Jars",
     "price": 79,
-    "rate": 5,
+    "rate": 4,
     "country": "Brooklyn, NY"
   },
   {
-    "id": "23595-choose-your-own-ice-cream-sandwich-8-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/89591/choose-your-own-ice-cream-sandwich-8-pack.aca778cca349220b2cf682a0577e1b7c.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Nye's Cream Sandwiches",
-    "dsc": "Choose Your Own Ice Cream Sandwich - 8 Pack",
-    "price": 79,
+    "id": "24011-chocolate-and-cinnamon-babka-3-pack",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/132984/breads-chocolate-and-cinnamon-babka-3-pack.b5c36a0ccbbec8dd7c23771cfa0603fb.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Breads Bakery",
+    "dsc": "Breads Chocolate and Cinnamon Babka - 3 Pack",
+    "price": 49.95,
     "rate": 4,
-    "country": "Wilmington, NC"
+    "country": "New York, NY"
+  },
+  {
+    "id": "dessert-bars-choose-your-own-9-pack",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/109092/dessert-bars-choose-your-own-9-pack.38ec1ad968769f3ab76bcb0826a0b8b7.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "The Gingered Peach",
+    "dsc": "Dessert Bars - Choose Your Own 9 Pack",
+    "price": 49,
+    "rate": 5,
+    "country": "Lawrence Twp, NJ"
   },
   {
     "id": "cinnamon-rolls-honey-bees-sampler-pack",
@@ -302,106 +203,25 @@
     "name": "Weikel's Bakery",
     "dsc": "Cinnamon Rolls and Honey Bees Sampler Pack",
     "price": 69,
-    "rate": 4,
+    "rate": 5,
     "country": "La Grange, TX"
   },
   {
-    "id": "stuffed-blueberry-cheesecake",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/132650/stuffed-blueberry-cheesecake.5d195e19ed907681439408325f1832ef.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "The Pie Hole",
-    "dsc": "Stuffed Blueberry Cheesecake",
-    "price": 89,
+    "id": "original-ny-plain-cheesecake",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/133583/plain-cheesecake.10ff643fb84a50e131e0a216dfb66f09.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Junior's Cheesecake",
+    "dsc": "Junior's Original Cheesecake",
+    "price": 64.95,
     "rate": 4,
-    "country": "Los Angeles, CA"
+    "country": "Brooklyn, NY"
   },
   {
-    "id": "24011-breads-bakery-chocolate-babka-3-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/90530/breads-bakery-chocolate-babka-3-pack.82ccccf0e109eaa03af3f8f0a4405ced.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Breads Bakery",
-    "dsc": "Breads Bakery Chocolate Babka - 3 Pack",
-    "price": 49.95,
-    "rate": 5,
-    "country": "New York, NY"
-  },
-  {
-    "id": "fourth-of-july-cheesecake-macarons-12-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/129313/fourth-of-july-cheesecake-macarons-12-pack.ad55dfb7c072f2d4f6a68d5f856b7cbf.jpeg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Kreuther Handcrafted Chocolate",
-    "dsc": "Fourth of July Cheesecake Macarons - 12 Pack",
-    "price": 55,
-    "rate": 5,
-    "country": "New York, NY"
-  },
-  {
-    "id": "ice-cream-sandwich-sampler-12-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/107265/ice-cream-sandwich-sampler-12-pack.0cc02dbf3dd0c0a8feb2b7c9731f9837.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Nightingale Ice Cream Sandwiches",
-    "dsc": "Ice Cream Sandwich Sampler - 12 Pack",
-    "price": 99,
-    "rate": 4,
-    "country": "Richmond, VA"
-  },
-  {
-    "id": "ice-cream-sandwich-best-seller-8-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/132783/ice-cream-sandwich-best-seller-8-pack.dda4edd37200d5a75e3eed4f7f8f3502.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Nightingale Ice Cream Sandwiches",
-    "dsc": "Ice Cream Sandwich Best Seller - 8 Pack",
-    "price": 75,
-    "rate": 4,
-    "country": "Richmond, VA"
-  },
-  {
-    "id": "cheesecake-macarons-24-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/91242/cheesecake-macarons-24-pack.98311118ad15fcff82a74763d1a8ed32.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Kreuther Handcrafted Chocolate",
-    "dsc": "Cheesecake Macarons - 24 Pack",
-    "price": 75,
-    "rate": 4,
-    "country": "New York, NY"
-  },
-  {
-    "id": "23595-best-sellers-ice-cream-sandwich-8-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/132372/best-sellers-ice-cream-sandwiches-8-pack.d30351bef255e98e3ca8fa4118c997fa.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Nye's Cream Sandwiches",
-    "dsc": "Best Sellers Ice Cream Sandwiches - 8 Pack",
-    "price": 74,
-    "rate": 5,
-    "country": "Wilmington, NC"
-  },
-  {
-    "id": "choose-your-own-ice-cream-6-pints",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/95835/choose-your-own-ice-cream-6-pints.1b037eed29b63eba6e44c38e276822e5.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Crank & Boom Craft Ice Cream",
-    "dsc": "Choose Your Own Ice Cream - 6 Pints",
-    "price": 99,
-    "rate": 4,
-    "country": "Lexington, KY"
-  },
-  {
-    "id": "Georgia-peach-crumble-cheesecake",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/110589/peach-crumble-cheesecake.e2d48a850d38834aa5a4fc3f34dd9089.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Honey Cheesecakes",
-    "dsc": "Georgia Peach Crumble Cheesecake",
+    "id": "little-italy-dessert-pack",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/101477/little-italy-dessert-pack.3540a0f8d95494fa394f494d19f8c9e4.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Ferrara Bakery",
+    "dsc": "Little Italy Dessert Pack",
     "price": 69,
     "rate": 4,
-    "country": "Statesboro, GA"
-  },
-  {
-    "id": "rice-krispie-treats-choose-your-own-8-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/100085/rice-krispie-treats-choose-your-own-8-pack.dc233e13241c165f31dddefcdd7edb18.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Sugar and Scribe",
-    "dsc": "Rice Krispie Treats - Choose Your Own 8 Pack",
-    "price": 69,
-    "rate": 5,
-    "country": "La Jolla, CA"
-  },
-  {
-    "id": "choose-your-own-rice-krispie-treats-12-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/95303/choose-your-own-rice-krispie-treats-12-pack.05c9f82e5b85de1fb1802e5587f2fc38.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Treat House",
-    "dsc": "Choose Your Own Rice Krispie Treats - 12 Pack",
-    "price": 49,
-    "rate": 5,
     "country": "New York, NY"
   },
   {
@@ -414,58 +234,76 @@
     "country": "Richmond, VA"
   },
   {
-    "id": "double-crust-fruit-pie-choose-your-own",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/91153/choose-your-own-double-crust-fruit-pie.4a706e820a33f7340d7c70cdf8545ceb.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Norske Nook Bakery",
-    "dsc": "Double Crust Fruit Pie - Choose Your Own",
-    "price": 49,
-    "rate": 5,
-    "country": "Rice Lake, WI"
+    "id": "cinnamon-roll-cheesecake",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/134085/cinnamon-roll-cheesecake.57da7d19317f774571fe8f667f38d8c7.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Honey Cheesecakes",
+    "dsc": "Cinnamon Roll Cheesecake",
+    "price": 75,
+    "rate": 4,
+    "country": "Statesboro, GA"
   },
   {
-    "id": "patriotic-smores",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/132836/patriotic-smores.59cd912048b3cd3c217e290d37ccd151.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Gotta Have S'more",
-    "dsc": "Patriotic S'mores",
-    "price": 49,
-    "rate": 5,
-    "country": "Los Angeles, CA"
+    "id": "23595-choose-your-own-ice-cream-sandwich-8-pack",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/89591/choose-your-own-ice-cream-sandwich-8-pack.aca778cca349220b2cf682a0577e1b7c.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Nye's Cream Sandwiches",
+    "dsc": "Choose Your Own Ice Cream Sandwich - 8 Pack",
+    "price": 79,
+    "rate": 4,
+    "country": "Wilmington, NC"
   },
   {
-    "id": "17228-4-pint-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/71773/choose-your-own-boozy-ice-cream-4-pints.cecb4c1a4d29b16b44c2b88fa59b3e86.png?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Tipsy Scoop Boozy Ice Cream",
-    "dsc": "Choose Your Own Boozy Ice Cream - 4 Pints",
-    "price": 99,
-    "rate": 5,
-    "country": "New York, NY"
+    "id": "banana-pudding-sampler-4-pack",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/121725/banana-pudding-deluxe-4-pack.36e4c2a89b15ec4352a7b68b471a982b.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "The Puddery",
+    "dsc": "Banana Pudding Sampler - 4 Pack",
+    "price": 69,
+    "rate": 4,
+    "country": "Long Beach, CA"
   },
   {
-    "id": "pannas-choice-ice-cream-6-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/127541/pannas-choice-ice-cream-6-pack.e49718042829aae8705f72dac2c97b5f.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Caffè Panna Ice Cream",
-    "dsc": "Panna's Choice Ice Cream 6-Pack",
-    "price": 109,
-    "rate": 5,
-    "country": "New York, NY"
-  },
-  {
-    "id": "chocolate-covered-cupcake-half-dozen",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/98898/chocolate-covered-cupcake-half-dozen.90ecdfa8028d2e46ead8f3c210e1946e.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Brooklyn Cupcake",
-    "dsc": "Chocolate Covered Cupcake - 6 Pack",
-    "price": 65,
+    "id": "double-chocolate-babka",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/134184/double-chocolate-babka.e7bca1ea0d2327e31179841ef74a4611.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Oneg Bakery",
+    "dsc": "Double Chocolate Babka",
+    "price": 59,
     "rate": 4,
     "country": "Brooklyn, NY"
   },
   {
-    "id": "chocolate-chip-cookie-pie",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/100203/chocolate-chip-cookie-pie-9.b341a316df3bb7cf8ddfe78bcd9c9703.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Ovenly",
-    "dsc": "Chocolate Chip Cookie Pie - 9\"",
-    "price": 39,
+    "id": "24011-breads-bakery-chocolate-babka-3-pack",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/90530/breads-bakery-chocolate-babka-3-pack.82ccccf0e109eaa03af3f8f0a4405ced.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Breads Bakery",
+    "dsc": "Breads Bakery Chocolate Babka - 3 Pack",
+    "price": 49.95,
+    "rate": 4,
+    "country": "New York, NY"
+  },
+  {
+    "id": "cheesecake-macarons-24-pack",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/91242/cheesecake-macarons-24-pack.98311118ad15fcff82a74763d1a8ed32.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Kreuther Handcrafted Chocolate",
+    "dsc": "Cheesecake Macarons - 24 Pack",
+    "price": 75,
+    "rate": 4,
+    "country": "New York, NY"
+  },
+  {
+    "id": "brownie-explosion-cheesecake",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/86905/plain-cheesecake.0ff81b367c16fb722c66d6d1deab0fcd.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Junior's Cheesecake",
+    "dsc": "Brownie Explosion Cheesecake",
+    "price": 74.95,
     "rate": 5,
     "country": "Brooklyn, NY"
+  },
+  {
+    "id": "chocolate-mousse-supreme-cake",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/133142/chocolate-mousse-supreme-cake.5fe7244dd7efb592e941587d8e336ad3.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Carousel Cakes",
+    "dsc": "Chocolate Mousse Supreme Cake",
+    "price": 49,
+    "rate": 4,
+    "country": "Nanuet, NY"
   },
   {
     "id": "smores-cookie-12-pack",
@@ -473,26 +311,26 @@
     "name": "Cookie Good",
     "dsc": "S'mores Cookie - 12 Pack",
     "price": 49,
-    "rate": 5,
+    "rate": 4,
     "country": "Los Angeles, CA"
   },
   {
-    "id": "bouquet-cupcakes-8-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/132299/bouquet-cupcakes-8-pack.c0436e805e1dfd39188f49ece19fd8fa.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "We Take the Cake",
-    "dsc": "Bouquet Cupcakes - 8 Pack",
+    "id": "choose-your-own-ice-cream-donuts-12-pack",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/87214/choose-your-own-ice-cream-donuts-12-pack.f6794011fbc58adfac58b3e1d2f2abe5.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Elegant Desserts",
+    "dsc": "Choose Your Own Ice Cream Donuts - 12 Pack",
     "price": 89,
-    "rate": 4,
-    "country": "Ft Lauderdale, FL"
+    "rate": 5,
+    "country": "Brooklyn, NY"
   },
   {
-    "id": "vanilla-cannoli-cream-cake",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/102026/vanilla-cannoli-cream-cake.7ef81b47f079382acf84f847150b11f4.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Ferrara Bakery",
-    "dsc": "Vanilla Cannoli Cream Cake",
-    "price": 59,
-    "rate": 4,
-    "country": "New York, NY"
+    "id": "chocolate-covered-cupcake-half-dozen",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/98898/chocolate-covered-cupcake-half-dozen.90ecdfa8028d2e46ead8f3c210e1946e.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Brooklyn Cupcake",
+    "dsc": "Chocolate Covered Cupcake - 6 Pack",
+    "price": 65,
+    "rate": 5,
+    "country": "Brooklyn, NY"
   },
   {
     "id": "raspberry-chocolate-pie",
@@ -504,12 +342,48 @@
     "country": "Oakland, CA"
   },
   {
-    "id": "smores-croissant-donuts-9-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/134370/smores-croissant-donuts-9-pack.01b7813928c8934c9f5b977261d3c2fc.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "The Donut Pub",
-    "dsc": "S'mores Croissant Donuts - 9 Pack",
-    "price": 89,
+    "id": "23595-best-sellers-ice-cream-sandwich-8-pack",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/132372/best-sellers-ice-cream-sandwiches-8-pack.d30351bef255e98e3ca8fa4118c997fa.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Nye's Cream Sandwiches",
+    "dsc": "Best Sellers Ice Cream Sandwiches - 8 Pack",
+    "price": 74,
+    "rate": 4,
+    "country": "Wilmington, NC"
+  },
+  {
+    "id": "chocolate-chip-cookies",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/78119/chocolate-chip-cookies.6897d911cf557257517e1ddcb648214b.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Appalachia Cookie Company",
+    "dsc": "Chocolate Chip Cookies",
+    "price": 59,
+    "rate": 5,
+    "country": "Boone, NC"
+  },
+  {
+    "id": "17228-4-pint-pack",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/71773/choose-your-own-boozy-ice-cream-4-pints.cecb4c1a4d29b16b44c2b88fa59b3e86.png?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Tipsy Scoop Boozy Ice Cream",
+    "dsc": "Choose Your Own Boozy Ice Cream - 4 Pints",
+    "price": 99,
     "rate": 5,
     "country": "New York, NY"
+  },
+  {
+    "id": "cheesecake-macarons-12-pack",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/107554/cheesecake-macarons-12-pack.e6d5a23285fc17c227aab7c574163077.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Kreuther Handcrafted Chocolate",
+    "dsc": "Cheesecake Macarons - 12 Pack",
+    "price": 55,
+    "rate": 4,
+    "country": "New York, NY"
+  },
+  {
+    "id": "banana-pudding-choose-your-own-4-pack",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/121746/pudding-choose-your-own-4-pack.5239bcb1356691a502359132f4574288.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "The Puddery",
+    "dsc": "Banana Pudding - Choose Your Own 4 Pack",
+    "price": 74,
+    "rate": 4,
+    "country": "Long Beach, CA"
   }
 ]

@@ -5,26 +5,8 @@
     "name": "Graeter's Ice Cream",
     "dsc": "Ice Cream - Choose Your Own 6 Pints",
     "price": 79.95,
-    "rate": 4,
+    "rate": 5,
     "country": "Cincinnati, OH"
-  },
-  {
-    "id": "ice-cream-sandwiches-choose-your-own-8-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/132518/ice-cream-sandwiches-choose-your-own-8-pack.47f5d9687dcc0854952bfac4048cf08c.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Nightingale Ice Cream Sandwiches",
-    "dsc": "Ice Cream Sandwiches - Choose Your Own 8 Pack",
-    "price": 75,
-    "rate": 5,
-    "country": "Richmond, VA"
-  },
-  {
-    "id": "choose-your-own-ice-cream-6-pints",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/95835/choose-your-own-ice-cream-6-pints.1b037eed29b63eba6e44c38e276822e5.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Crank & Boom Craft Ice Cream",
-    "dsc": "Choose Your Own Ice Cream - 6 Pints",
-    "price": 99,
-    "rate": 5,
-    "country": "Lexington, KY"
   },
   {
     "id": "23952-nancys-italian-gelato-gift-box",
@@ -32,44 +14,8 @@
     "name": "Nancy Silverton's Nancy's Fancy",
     "dsc": "Nancy Silverton's Favorite Gelato Gift Box",
     "price": 89,
-    "rate": 5,
-    "country": "Los Angeles, CA"
-  },
-  {
-    "id": "not-fried-chicken-ice-cream-bucket-9-pieces",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/133928/not-fried-chicken-ice-cream-bucket-9-pack.60f7bd96d6e4ef499e7e1a75d38e6a9e.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Life Raft Treats",
-    "dsc": "\"Not Fried Chicken\" Ice Cream Bucket - 9 Pieces",
-    "price": 99,
-    "rate": 5,
-    "country": "Charleston, SC"
-  },
-  {
-    "id": "ice-cream-choose-your-own-6-pints",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/103734/ice-cream-choose-your-own-6-pints.7ebb354d1141bc722918433e7a387cb0.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Bassetts Ice Cream",
-    "dsc": "Ice Cream - Choose Your Own 6 Pints",
-    "price": 79,
-    "rate": 5,
-    "country": "Philadelphia, PA"
-  },
-  {
-    "id": "ice-cream-sandwiches-choose-your-own-6-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/107751/ice-cream-sandwiches-choose-your-own-6-pack.5c72120eae11fa3d55392ce94252b51b.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "MILK",
-    "dsc": "Macaron Ice Cream Sandwiches - Choose Your Own 6 Pack",
-    "price": 89,
     "rate": 4,
     "country": "Los Angeles, CA"
-  },
-  {
-    "id": "ice-cream-sandwiches-choose-your-own-12-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/132789/ice-cream-sandwiches-choose-your-own-12-pack.5f4d80edd1bb22064db0718b147c1047.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Nightingale Ice Cream Sandwiches",
-    "dsc": "Ice Cream Sandwiches - Choose Your Own 12 Pack",
-    "price": 99,
-    "rate": 4,
-    "country": "Richmond, VA"
   },
   {
     "id": "237283342-choose-your-own-frozen-custard-6-pack",
@@ -77,53 +23,17 @@
     "name": "Anderson's Frozen Custard",
     "dsc": "Frozen Custard + Handmade Ice Cream - Choose Your Own - 6 Pack",
     "price": 109,
-    "rate": 5,
+    "rate": 4,
     "country": "Buffalo, NY"
   },
   {
-    "id": "ice-cream-sandwich-cone-nugget-sampler",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/126315/ice-cream-sandwich-sampler.2b7bf7662337107b5090ee8fc2d7a86f.png?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "IT'S-IT Ice Cream",
-    "dsc": "Ice Cream Sandwich + Cone Nugget Sampler",
-    "price": 129,
-    "rate": 5,
-    "country": "San Francisco, CA"
-  },
-  {
-    "id": "ice-cream-party-in-a-box",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/90455/ice-cream-party-in-a-box.ae49855f57065d5a77ef7782981012c0.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Capannari Ice Cream",
-    "dsc": "Ice Cream Party-In-A-Box",
+    "id": "ice-cream-choose-your-own-5-pints",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/103364/ice-cream-choose-your-own-5-pints.05ed6c9fab612b8e5f0367e87428ebf7.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "The Baked Bear",
+    "dsc": "Ice Cream - Choose Your Own 5 Pints",
     "price": 99,
     "rate": 4,
-    "country": "Mount Prospect, IL"
-  },
-  {
-    "id": "ice-cream-choose-your-own-6-pints",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/110356/ice-cream-choose-your-own-6-pints.7e3199bc794ac9d43c69d8a632430dc8.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Museum of Ice Cream",
-    "dsc": "Ice Cream - Choose Your Own 6 Pints",
-    "price": 99,
-    "rate": 4,
-    "country": "New York, NY"
-  },
-  {
-    "id": "gelato-choose-your-own-4-pints",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/132512/gelato-choose-your-own-4-pints.fd0025518acac3307859dd3d0504ff23.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Dolcezza Gelato",
-    "dsc": "Gelato - Choose Your Own 4 Pints",
-    "price": 79,
-    "rate": 5,
-    "country": "Washington, DC"
-  },
-  {
-    "id": "reading-terminal-markets-diy-cookie-ice-cream-sandwich-kit-for-8",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/109990/reading-terminal-markets-diy-cookie-ice-cream-sandwich-kit-for-8.674ad0e9f3eb5edbf3bb7d21acaedd37.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Bassetts Ice Cream",
-    "dsc": "Reading Terminal Market's DIY Cookie Ice Cream Sandwich Kit for 8",
-    "price": 69,
-    "rate": 4,
-    "country": "Philadelphia, PA"
+    "country": "San Diego, CA"
   },
   {
     "id": "17228-4-pint-pack",
@@ -131,7 +41,16 @@
     "name": "Tipsy Scoop Boozy Ice Cream",
     "dsc": "Choose Your Own Boozy Ice Cream - 4 Pints",
     "price": 99,
-    "rate": 4,
+    "rate": 5,
+    "country": "New York, NY"
+  },
+  {
+    "id": "ice-cream-choose-your-own-6-pints",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/110356/ice-cream-choose-your-own-6-pints.7e3199bc794ac9d43c69d8a632430dc8.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Museum of Ice Cream",
+    "dsc": "Ice Cream - Choose Your Own 6 Pints",
+    "price": 99,
+    "rate": 5,
     "country": "New York, NY"
   },
   {
@@ -140,7 +59,7 @@
     "name": "Nye's Cream Sandwiches",
     "dsc": "Choose Your Own Ice Cream Sandwich - 8 Pack",
     "price": 79,
-    "rate": 5,
+    "rate": 4,
     "country": "Wilmington, NC"
   },
   {
@@ -153,22 +72,13 @@
     "country": "Harlem, NY"
   },
   {
-    "id": "summer-ice-cream-collection-4-pints",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/128528/summer-ice-cream-collection-4-pints.06839dbe6a6104fab87410fdf24352a5.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "OddFellows Ice Cream",
-    "dsc": "Summer Ice Cream Collection - 4 Pints",
-    "price": 74,
+    "id": "choose-your-own-6-pints",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/78414/ice-cream-choose-your-own-6-pints.ec19c8772f1fc363e86ef01890a56124.JPG?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Malai Ice Cream",
+    "dsc": "Ice Cream - Choose Your Own 6 Pints",
+    "price": 109,
     "rate": 5,
     "country": "Brooklyn, NY"
-  },
-  {
-    "id": "ice-cream-choose-your-own-5-pints",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/103364/ice-cream-choose-your-own-5-pints.05ed6c9fab612b8e5f0367e87428ebf7.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "The Baked Bear",
-    "dsc": "Ice Cream - Choose Your Own 5 Pints",
-    "price": 99,
-    "rate": 4,
-    "country": "San Diego, CA"
   },
   {
     "id": "choose-your-own-ice-cream-12-pints",
@@ -176,24 +86,24 @@
     "name": "Graeter's Ice Cream",
     "dsc": "Ice Cream - Choose Your Own 12 Pints",
     "price": 119.95,
-    "rate": 5,
+    "rate": 4,
     "country": "Cincinnati, OH"
   },
   {
-    "id": "ice-cream-choose-your-own-4-pints",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/113979/ice-cream-choose-your-own-4-pints.154ba6abc87e4022c8d6e1a88db344df.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Bridgeman's Ice Cream",
-    "dsc": "Ice Cream - Choose Your Own 4 Pints",
-    "price": 79,
-    "rate": 5,
-    "country": "Woodbury, MN"
+    "id": "best-sellers-ice-cream-collection-6-pints",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/95838/taste-of-kentucky-ice-cream-collection-6-pints.dc03a97b15828e9a01e81efc0b309d4d.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Crank & Boom Craft Ice Cream",
+    "dsc": "Best Sellers Ice Cream Collection - 6 Pints",
+    "price": 99,
+    "rate": 4,
+    "country": "Lexington, KY"
   },
   {
-    "id": "choose-your-own-6-pints",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/78414/ice-cream-choose-your-own-6-pints.ec19c8772f1fc363e86ef01890a56124.JPG?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Malai Ice Cream",
-    "dsc": "Ice Cream - Choose Your Own 6 Pints",
-    "price": 109,
+    "id": "choose-your-own-ice-cream-donuts-6-pack",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/132716/choose-your-own-ice-cream-donuts-6-pack.24d0b44765a7c54237fcd7ea9d9d8093.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Elegant Desserts",
+    "dsc": "Choose Your Own Ice Cream Donuts - 6 Pack",
+    "price": 69,
     "rate": 5,
     "country": "Brooklyn, NY"
   },
@@ -216,58 +126,31 @@
     "country": "New York, NY"
   },
   {
-    "id": "choose-your-own-6-pints",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/132926/artisanal-ice-cream-choose-your-own-6-pints.268678253c37d1baebc2e9d366c7b62e.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Proper Ice Cream",
-    "dsc": "Artisanal Ice Cream - Choose Your Own 6 Pints",
-    "price": 99,
-    "rate": 4,
-    "country": "Delray Beach, FL"
-  },
-  {
-    "id": "choose-your-own-ice-cream-donuts-6-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/132716/choose-your-own-ice-cream-donuts-6-pack.24d0b44765a7c54237fcd7ea9d9d8093.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Elegant Desserts",
-    "dsc": "Choose Your Own Ice Cream Donuts - 6 Pack",
-    "price": 69,
-    "rate": 4,
-    "country": "Brooklyn, NY"
-  },
-  {
-    "id": "best-sellers-ice-cream-collection-6-pints",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/95838/taste-of-kentucky-ice-cream-collection-6-pints.dc03a97b15828e9a01e81efc0b309d4d.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Crank & Boom Craft Ice Cream",
-    "dsc": "Best Sellers Ice Cream Collection - 6 Pints",
-    "price": 99,
-    "rate": 4,
-    "country": "Lexington, KY"
-  },
-  {
     "id": "gelato-and-sorbetto-minis-12-pack",
     "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/102254/gelato-and-sorbetto-minis-12-pack.9cefc719fccb400e58167847ebd66a80.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
     "name": "Nancy Silverton's Nancy's Fancy",
     "dsc": "Gelato & Sorbetto Minis - 12 pack",
     "price": 94,
-    "rate": 4,
+    "rate": 5,
     "country": "Los Angeles, CA"
   },
   {
-    "id": "ice-cream-choose-your-own-6-pints",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/70652/create-your-own-6-pack.8b07dc82333c1d4ce5c5bd38bcc4dffa.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "The Comfy Cow",
-    "dsc": "Ice Cream - Choose Your Own 6 Pints",
-    "price": 89,
+    "id": "mochi-ice-cream-choose-your-own-12-pack",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/122636/mochi-ice-cream-choose-your-own-12-pack.f6eb9b1a2020a9ff88c8bb069a910b22.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Mochii",
+    "dsc": "Mochi Ice Cream - Choose Your Own 12 Pack",
+    "price": 75,
     "rate": 5,
-    "country": "Louisville, KY"
+    "country": "New York, NY"
   },
   {
-    "id": "ice-cream-best-seller-6-pints",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/132184/ice-cream-best-seller-6-pints.24f03f4db0ee9490f22486f3bb1b8bd9.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Graeter's Ice Cream",
-    "dsc": "Ice Cream Best Seller - 6 Pints",
-    "price": 79.95,
-    "rate": 4,
-    "country": "Cincinnati, OH"
+    "id": "giant-ice-cream-sandwich-kit-choose-your-own-6-pack",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/132386/build-your-own-ice-cream-sandwich-kit-6-pack.c81bd69ed1a452decb5bc599358dc644.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "The Baked Bear",
+    "dsc": "Build Your Own Ice Cream Sandwich Kit - 6 Pack",
+    "price": 84,
+    "rate": 5,
+    "country": "San Diego, CA"
   },
   {
     "id": "mini-ice-cream-sandwiches-choose-your-own-16-pack",
@@ -275,8 +158,17 @@
     "name": "Cream + Sugar",
     "dsc": "Mini Ice Cream Sandwiches - Choose Your Own 16 Pack",
     "price": 89,
-    "rate": 5,
+    "rate": 4,
     "country": "Jackson, WY"
+  },
+  {
+    "id": "layered-ice-cream-sundae-jar-choose-your-own-6-pack",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/129301/layered-ice-cream-sundae-jar-choose-your-own-6-pack.a018cc2bb407befc6d7b618441849c28.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "The Yard Milkshake Bar",
+    "dsc": "Layered Ice Cream Sundae Jar - Choose Your Own 6 Pack",
+    "price": 125,
+    "rate": 5,
+    "country": "Gulf Shores, AL"
   },
   {
     "id": "cookie-monster-ice-cream-sandwich-8-pack",
@@ -288,60 +180,6 @@
     "country": "Richmond, VA"
   },
   {
-    "id": "22372822-handmade-ice-cream-sandwiches-24-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/89889/handmade-ice-cream-sandwiches-24-pack.89217b123578aced0529b4e138171b2f.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Anderson's Frozen Custard",
-    "dsc": "Handmade Ice Cream Sandwiches - 24 Pack",
-    "price": 119,
-    "rate": 4,
-    "country": "Buffalo, NY"
-  },
-  {
-    "id": "craft-beer-infused-ice-cream-collection-4-pints",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/131732/craft-beer-infused-ice-cream-collection-4-pints.1bce71b4588719047568ab7697a7e375.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Scoops On Tap",
-    "dsc": "Craft Beer Infused Ice Cream Collection - 4 Pints",
-    "price": 89,
-    "rate": 4,
-    "country": "Montclair, CA"
-  },
-  {
-    "id": "gelato-best-sellers-4-pints",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/133645/gelato-best-sellers-4-pints.822ef50e68f2a1bead11f05dd69b2dd6.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Dolcezza Gelato",
-    "dsc": "Gelato Best Sellers - 4 Pints",
-    "price": 79,
-    "rate": 5,
-    "country": "Washington, DC"
-  },
-  {
-    "id": "red-white-and-blue-cheesecake-ice-cream-sandwiches-8-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/136106/July_-_Red_White_and_Blue_Cheesecake__1_.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Nightingale Ice Cream Sandwiches",
-    "dsc": "Red White and Blue Cheesecake Ice Cream Sandwiches - 8 Pack",
-    "price": 75,
-    "rate": 5,
-    "country": "Richmond, VA"
-  },
-  {
-    "id": "gulab-jamun-ice-cream-cakes-2-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/105133/gulab-jamun-ice-cream-cakes-2-pack.c45b4d0750ad22d741f84dc1f26d20e7.JPG?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Malai Ice Cream",
-    "dsc": "Gulab Jamun Ice Cream Cakes - 2 Pack",
-    "price": 79,
-    "rate": 5,
-    "country": "Brooklyn, NY"
-  },
-  {
-    "id": "ice-cream-choose-your-own-6-pints",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/111221/ice-cream-choose-your-own-6-pints.b756cad54ce40872abda97ad2704b1f9.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "OddFellows Ice Cream",
-    "dsc": "Ice Cream - Choose Your Own 6 Pints",
-    "price": 99,
-    "rate": 5,
-    "country": "Brooklyn, NY"
-  },
-  {
     "id": "best-seller-ice-cream-pack-6-pints",
     "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/113988/best-seller-ice-cream-pack-6-pints.0d2fe2cd8b15418dbfff9b07e5387dbd.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
     "name": "Bridgeman's Ice Cream",
@@ -349,6 +187,42 @@
     "price": 99,
     "rate": 5,
     "country": "Woodbury, MN"
+  },
+  {
+    "id": "choose-your-own-ice-cream-creamwich-combo-for-10",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/132414/6-creamwich-4-pint-ice-cream-combo.6196f68326686c2decd8847bf730fe0e.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Cream'wich",
+    "dsc": "4 Pint Ice Cream + 6 Cream'wich Combo",
+    "price": 109,
+    "rate": 4,
+    "country": "Manhattan Beach, CA"
+  },
+  {
+    "id": "giant-ice-cream-sandwich-kit-choose-your-own-9-pack",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/103337/build-your-own-ice-cream-sandwich-kit-9-pack.e972c9c8819bfc245d671eaf98107247.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "The Baked Bear",
+    "dsc": "Build Your Own Ice Cream Sandwich Kit - 9 Pack",
+    "price": 99,
+    "rate": 5,
+    "country": "San Diego, CA"
+  },
+  {
+    "id": "artisan-ice-cream-choose-your-own-6-pints",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/131929/artisan-ice-cream-choose-your-own-6-pints.fc029dfaf6c0b6143ed09f3dc6f72745.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Cream + Sugar",
+    "dsc": "Artisan Ice Cream - Choose Your Own 6 Pints",
+    "price": 99,
+    "rate": 4,
+    "country": "Jackson, WY"
+  },
+  {
+    "id": "bonastyle-ice-cream-choose-your-own-6-pints",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/134416/bonastyle-ice-cream-choose-your-own-6-pints.a10293b457234788157c88905a57612a.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Bona Bona Ice Cream",
+    "dsc": "Meringue Topped Ice Cream - Choose Your Own 6 Pints",
+    "price": 99,
+    "rate": 5,
+    "country": "Port Chester, NY"
   },
   {
     "id": "flavors-of-kentucky-ice-cream-collection-6-pints",
@@ -360,147 +234,12 @@
     "country": "Lexington, KY"
   },
   {
-    "id": "ice-cream-sandwich-best-seller-8-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/132783/ice-cream-sandwich-best-seller-8-pack.dda4edd37200d5a75e3eed4f7f8f3502.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Nightingale Ice Cream Sandwiches",
-    "dsc": "Ice Cream Sandwich Best Seller - 8 Pack",
-    "price": 75,
-    "rate": 5,
-    "country": "Richmond, VA"
-  },
-  {
-    "id": "ice-cream-sandwich-sampler-12-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/107265/ice-cream-sandwich-sampler-12-pack.0cc02dbf3dd0c0a8feb2b7c9731f9837.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Nightingale Ice Cream Sandwiches",
-    "dsc": "Ice Cream Sandwich Sampler - 12 Pack",
-    "price": 99,
-    "rate": 5,
-    "country": "Richmond, VA"
-  },
-  {
-    "id": "best-seller-ice-cream-6-pints",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/132236/best-seller-ice-cream-6-pints.0ef2777b8c8977411efea5b6828f9fb3.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Bassetts Ice Cream",
-    "dsc": "Best Seller Ice Cream - 6 Pints",
-    "price": 79,
-    "rate": 5,
-    "country": "Philadelphia, PA"
-  },
-  {
-    "id": "best-seller-ice-cream-6-Pints",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/90441/best-seller-ice-cream-6-pints.8ca3f1b76aa697ee425e6c0cc6346573.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Capannari Ice Cream",
-    "dsc": "Best Seller Ice Cream - 6 Pints",
-    "price": 99,
-    "rate": 4,
-    "country": "Mount Prospect, IL"
-  },
-  {
-    "id": "family-favorites-ice-cream-3-pints-8-cups-8-bars",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/112615/family-favorites-ice-cream-3-pints-8-cups-8-bars.5efae46b6001efc13f8c64d0f41fb850.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "A La Mode Ice Cream",
-    "dsc": "Family Favorites Ice Cream - 3 Pints + 8 Cups + 8 Bars",
-    "price": 89,
-    "rate": 5,
-    "country": "New York, NY"
-  },
-  {
-    "id": "235952-choose-your-own-ice-cream-sandwich-16-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/89610/choose-your-own-ice-cream-sandwich-16-pack.ba8a34f08ac7f88fd238c2d364b335fa.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Nye's Cream Sandwiches",
-    "dsc": "Choose Your Own Ice Cream Sandwich - 16 Pack",
-    "price": 109,
-    "rate": 5,
-    "country": "Wilmington, NC"
-  },
-  {
-    "id": "banana-split-ice-cream-sandwich-8-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/129345/banana-split-ice-cream-sandwich-8-pack.06d76703e86027caa769ef11cb6e23d8.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Nightingale Ice Cream Sandwiches",
-    "dsc": "Banana Split Ice Cream Sandwich - 8 Pack",
-    "price": 75,
-    "rate": 5,
-    "country": "Richmond, VA"
-  },
-  {
-    "id": "best-seller-ice-cream-5-pints",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/103407/best-seller-ice-cream-5-pints.87aa6602773479f9f8ae75cf3107e844.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "The Baked Bear",
-    "dsc": "Best Seller Ice Cream - 5 Pints",
-    "price": 99,
-    "rate": 5,
-    "country": "San Diego, CA"
-  },
-  {
-    "id": "double-flavor-ice-cream-bar-sampler-9-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/134495/double-flavor-ice-cream-bar-sampler.386abee657638b6ad36d5c0e6237554d.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Life Raft Treats",
-    "dsc": "Double Flavor Ice Cream Bar Sampler - 9 Pack",
-    "price": 89,
-    "rate": 4,
-    "country": "Charleston, SC"
-  },
-  {
-    "id": "bonastyle-ice-cream-choose-your-own-6-pints",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/134416/bonastyle-ice-cream-choose-your-own-6-pints.a10293b457234788157c88905a57612a.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Bona Bona Ice Cream",
-    "dsc": "Meringue Topped Ice Cream - Choose Your Own 6 Pints",
-    "price": 99,
-    "rate": 4,
-    "country": "Port Chester, NY"
-  },
-  {
-    "id": "best-seller-ice-cream-pack-4-pints",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/133415/best-seller-ice-cream-pack-4-pints.a0cb683b7cd7e4d586675e8dce3fce56.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Bridgeman's Ice Cream",
-    "dsc": "Best Seller Ice Cream Pack - 4 Pints",
-    "price": 79,
-    "rate": 5,
-    "country": "Woodbury, MN"
-  },
-  {
     "id": "signature-chip-ice-cream-6-pints",
     "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/133218/signature-chip-ice-cream-6-pints.32228ca3b762a1f5970a14fea82139ec.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
     "name": "Graeter's Ice Cream",
     "dsc": "Signature Chip Ice Cream - 6 Pints",
     "price": 79.95,
-    "rate": 4,
+    "rate": 5,
     "country": "Cincinnati, OH"
-  },
-  {
-    "id": "001-24-its-its-vanilla",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/66268/vanilla-its-it-ice-cream-sandwiches-24-pack.19046eba7d07c1ff8c1aeb4dcb9070dd.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "IT'S-IT Ice Cream",
-    "dsc": "Vanilla Ice Cream Sandwiches - 24 Pack",
-    "price": 89,
-    "rate": 5,
-    "country": "San Francisco, CA"
-  },
-  {
-    "id": "ice-cream-best-sellers-6-pints",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/74879/the-cow-classics-collection.a3d09934c8b0c327beb7db180ad26243.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "The Comfy Cow",
-    "dsc": "Ice Cream Best Sellers - 6 Pints",
-    "price": 89,
-    "rate": 5,
-    "country": "Louisville, KY"
-  },
-  {
-    "id": "choose-your-own-ice-cream-creamwich-combo-for-10",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/132414/6-creamwich-4-pint-ice-cream-combo.6196f68326686c2decd8847bf730fe0e.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Cream'wich",
-    "dsc": "4 Pint Ice Cream + 6 Cream'wich Combo",
-    "price": 109,
-    "rate": 5,
-    "country": "Manhattan Beach, CA"
-  },
-  {
-    "id": "ice-cream-sandwiches-choose-your-own-6-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/110979/ice-cream-sandwiches-choose-your-own-6-pack.7bfe4a57d6b0e2197ea00f6035deecc6.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Wynwood Parlor",
-    "dsc": "Jumbo Ice Cream Sandwiches - Choose Your Own 6 Pack",
-    "price": 89,
-    "rate": 5,
-    "country": "Miami, FL"
   }
 ]
