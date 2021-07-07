@@ -13125,20 +13125,20 @@
     }
   ],
   "pagination": {
-    "_bbqsTotal": 59,
-    "_bestFoodsTotal": 60,
-    "_breadsTotal": 58,
-    "_burgersTotal": 60,
-    "_chocolatesTotal": 59,
-    "_dessertsTotal": 43,
-    "_drinksTotal": 48,
-    "_friedChickenTotal": 58,
-    "_iceCreamTotal": 27,
-    "_pizzasTotal": 54,
-    "_porksTotal": 60,
-    "_sandwichesTotal": 55,
-    "_sausagesTotal": 60,
-    "_steaksTotal": 57,
-    "_allTotal": 697
+    "bbqs": 59,
+    "best-foods": 60,
+    "breads": 58,
+    "burgers": 60,
+    "chocolates": 59,
+    "desserts": 43,
+    "drinks": 48,
+    "fried-chicken": 58,
+    "ice-cream": 27,
+    "pizzas": 54,
+    "porks": 60,
+    "sandwiches": 55,
+    "sausages": 60,
+    "steaks": 57,
+    "all": 697
   }
 }
