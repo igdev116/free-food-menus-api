@@ -13123,5 +13123,22 @@
       "rate": 4,
       "country": "Calumet City, IL"
     }
-  ]
+  ],
+  "pagination": {
+    "_bbqsTotal": 59,
+    "_bestFoodsTotal": 60,
+    "_breadsTotal": 58,
+    "_burgersTotal": 60,
+    "_chocolatesTotal": 59,
+    "_dessertsTotal": 43,
+    "_drinksTotal": 48,
+    "_friedChickenTotal": 58,
+    "_iceCreamTotal": 27,
+    "_pizzasTotal": 54,
+    "_porksTotal": 60,
+    "_sandwichesTotal": 55,
+    "_sausagesTotal": 60,
+    "_steaksTotal": 57,
+    "_allTotal": 697
+  }
 }
