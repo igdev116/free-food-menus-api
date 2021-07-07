@@ -6849,7 +6849,7 @@
       "country": "Brooklyn, NY"
     }
   ],
-  "all": [
+  "our-foods": [
     {
       "id": "ribs-brisket-and-burnt-ends",
       "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/79619/joes-kc-ribs-brisket-and-burnt-ends.6710e994980e485e6441b794717ad6fb.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
@@ -13139,6 +13139,6 @@
     "sandwiches": 55,
     "sausages": 60,
     "steaks": 57,
-    "all": 697
+    "our-foods": 697
   }
 }
