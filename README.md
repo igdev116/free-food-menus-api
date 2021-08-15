@@ -45,7 +45,7 @@ fetch('https://ig-food-menus.herokuapp.com/burgers')
 // what we have?
 [
   {
-    id: ...
+    id: ...,
     img: ...,
     name: ...,
     dsc: ...,
