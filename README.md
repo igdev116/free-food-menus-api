@@ -57,7 +57,7 @@ fetch('https://ig-food-menus.herokuapp.com/burgers')
     ...
   },
   ...
-  // and so on!
+  // And so on!
 ]
 ```
 
@@ -96,6 +96,6 @@ fetch('https://ig-food-menus.herokuapp.com/burgers')
 /sandwiches
 /sausages
 /steaks
-// and if you like any other menus or dishes, please comment
+// And if you like any other menus or dishes, please comment
 // I will try to add them as soon as possible. Enjoy!!
 ```
