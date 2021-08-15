@@ -42,7 +42,7 @@ fetch('https://ig-food-menus.herokuapp.com/burgers')
   .then((response) => response.json())
   .then((data) => console.log(data));
 
-// and what we have?
+// what we have?
 [
   {
     id: ...
@@ -57,7 +57,7 @@ fetch('https://ig-food-menus.herokuapp.com/burgers')
     ...
   },
   ...
-  // And so on!
+  // and so on!
 ]
 ```
 
@@ -96,6 +96,6 @@ fetch('https://ig-food-menus.herokuapp.com/burgers')
 /sandwiches
 /sausages
 /steaks
-// And if you like any other menus or dishes, please comment
+// and if you like any other menus or dishes, please comment
 // I will try to add them as soon as possible. Enjoy!!
 ```
