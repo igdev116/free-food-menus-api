@@ -37,12 +37,12 @@ https://ig-food-menus.herokuapp.com/<params>
 **🍕 Examples:**
 
 ```js
-// use fetch
+// Use fetch (Copy and paste to browser console to see result!)
 fetch('https://ig-food-menus.herokuapp.com/burgers')
   .then((response) => response.json())
   .then((data) => console.log(data));
 
-// what we have?
+// What we have?
 [
   {
     id: ...,
@@ -53,28 +53,23 @@ fetch('https://ig-food-menus.herokuapp.com/burgers')
     rate: ...,
     country: ...
   },
-  {
-    ...
-  },
   ...
-  // and so on!
 ]
 ```
 
 **🍣 Params bonus**
 
 ```js
-// get all data of existing dishes
+// Get all data of existing dishes
 /our-foods
 
-// take the number object of dishes according to the menu
-// use for pagination, infinite scrolling
+// Pagination
 /pagination
 
-// and something look like
+// And something look like
 {
-  "bbqs": 59,
-  "best-foods": 60,
+  bbqs: 59,
+  best-foods: 60,
   ...
 }
 ```
@@ -96,6 +91,6 @@ fetch('https://ig-food-menus.herokuapp.com/burgers')
 /sandwiches
 /sausages
 /steaks
-// and if you like any other menus or dishes, please comment
+// And if you like any other menus or dishes, please comment
 // I will try to add them as soon as possible. Enjoy!!
 ```
