@@ -31,7 +31,7 @@ https://github.com/typicode/json-server#routes
 **🍞 Using:**
 
 ```
-https://ig-food-menus.herokuapp.com/<params>
+https://free-food-menus-api-production.up.railway.app/<params>
 ```
 
 **🍕 Examples:**
