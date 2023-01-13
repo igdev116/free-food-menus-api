@@ -38,7 +38,7 @@ https://ig-food-menus.herokuapp.com/<params>
 
 ```js
 // Use fetch (Copy and paste to browser console to see result!)
-fetch('https://ig-food-menus.herokuapp.com/burgers')
+fetch('https://free-food-menus-api-production.up.railway.app/burgers')
   .then((response) => response.json())
   .then((data) => console.log(data));
 
